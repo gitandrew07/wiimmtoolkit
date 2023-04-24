@@ -8,3 +8,5 @@ Tool that simplifies the use of Wiimm's Tools (WIT, WSZST...)
 - [x] Extracting ISO/WBFS
 - [ ] Replace Nintendo WFC with Wiimmfi
 - [ ] Change the ID6 of a game
+- [ ] Scrub ISO game
+- [ ] Display the ID6 and Name of a Wii Game
